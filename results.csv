@@ -1,0 +1,71 @@
+,good,fair,poor,severe,
+Signage,0.0,0.0,0.0,0.0,
+Guide post,19.0,3.0,0.0,26.0,"Alice Bradley 15, Shirley Browning 15, Bradley Hager 15, Cathy Hill 15, Brandon Lovejoy 15, Chuck Adkins 16, Jim and Tasha Alder 16, Michaiel Angel 16, Bill Cart 16, Danny Cook 16, Ruth Cornell 16, Mary Daily 16, Doss Dana 16, Dollie Davis 16, Mary Evelyn Hager 16, Misty Murr 16, Roger + Lavonna Napier 16, Eskel Taylor 16, David Vance 16, Arther Adkins 17, Arnold Hensley 17, Richard Jeffery 17, Donna McCormick 17, Terry Miller 17, Jessica Stone 17, Robert Allen 18, "
+"Speed limit, wt limit sign",25.0,0.0,0.0,23.0,"Shirley Browning 15, Bradley Hager 15, Cathy Hill 15, Brandon Lovejoy 15, Chuck Adkins 16, Jim and Tasha Alder 16, Michaiel Angel 16, Bill Cart 16, Danny Cook 16, Ruth Cornell 16, Mary Daily 16, Dollie Davis 16, Mary Evelyn Hager 16, Bishop Muncy 16, Misty Murr 16, Roger + Lavonna Napier 16, Eskel Taylor 16, David Vance 16, Arnold Hensley 17, Jessica Stone 17, Grace Adkins 18, Robert Allen 18, Lola Crews 20, "
+reflectors,33.0,0.0,0.0,14.0,"Bradley Hager 15, Cathy Hill 15, Brandon Lovejoy 15, Michaiel Angel 16, Ruth Cornell 16, Mary Daily 16, Doss Dana 16, Holbert Dial 16, Mary Evelyn Hager 16, Roger + Lavonna Napier 16, David Vance 16, Arnold Hensley 17, Terry Miller 17, Ronald Russell 20, "
+Curb,0.0,0.0,0.0,0.0,
+Damage,44.0,3.0,1.0,1.0,"Michaiel Angel 16, "
+Curb wood decay,41.0,7.0,0.0,0.0,
+Curb connection,46.0,1.0,0.0,1.0,"David Vance 16, "
+Railing /guardrail,2.0,0.0,0.0,0.0,
+Decking: ,0.0,0.0,0.0,0.0,
+Wood Damage,42.0,3.0,2.0,0.0,
+Cleanness of deck,21.0,16.0,6.0,7.0,"Bradley Hager 15, Brandon Lovejoy 15, Bill Cart 16, Bishop Muncy 16, Shelba Kay Thomas 16, Robert Allen 18, David McCall 19, "
+Wood internal decay,37.0,5.0,0.0,3.0,"Ruth Cornell 16, Mary Evelyn Hager 16, Robert Adkins 17, "
+Fungus ,15.0,21.0,7.0,2.0,"Robert Adkins 17, Roy Sears 19, "
+Wood wear surface,45.0,1.0,0.0,0.0,
+Deck clips spacing,39.0,3.0,0.0,1.0,"Robert Adkins 17, "
+Roll roofing : as-built,7.0,5.0,26.0,5.0,"Bill Cart 16, Misty Murr 16, Robert Adkins 17, Elmer Brown 17, Lola Crews 20, "
+Steel Superstruture,0.0,0.0,0.0,0.0,
+Beams,47.0,2.0,0.0,0.0,
+Lateral bracing,46.0,2.0,0.0,0.0,
+Diagonal bracing,39.0,0.0,0.0,0.0,
+Beam bearing plate,7.0,0.0,0.0,0.0,
+Bolted connections,0.0,0.0,0.0,0.0,
+As-built,24.0,20.0,0.0,0.0,
+Field Welded connections,0.0,0.0,0.0,0.0,
+As-built quality,18.0,8.0,5.0,0.0,
+Beam Corrosion,0.0,0.0,0.0,0.0,
+web,10.0,22.0,12.0,5.0,"Alice Bradley 15, Mary Daily 16, Robert Adkins 17, Donna McCormick 17, Grace Adkins 18, "
+bot flange,1.0,24.0,17.0,6.0,"Alice Bradley 15, Mary Daily 16, Bishop Muncy 16, Robert Adkins 17, Donna McCormick 17, Grace Adkins 18, "
+bracing,1.0,24.0,15.0,7.0,"Alice Bradley 15, Bradley Hager 15, Bishop Muncy 16, David Vance 16, Robert Adkins 17, Donna McCormick 17, Grace Adkins 18, "
+top flange,1.0,20.0,21.0,6.0,"Alice Bradley 15, Mary Daily 16, Bishop Muncy 16, Shelba Kay Thomas 16, Robert Adkins 17, Grace Adkins 18, "
+at field welds,1.0,17.0,23.0,3.0,"Alice Bradley 15, Bradley Hager 15, Grace Adkins 18, "
+at bearing supports,6.0,19.0,16.0,5.0,"Bishop Muncy 16, Shelba Kay Thomas 16, Donna McCormick 17, Jimmy + Darlene Workman 17, Grace Adkins 18, "
+Paint effectiveness,6.0,16.0,19.0,8.0,"Alice Bradley 15, Cathy Hill 15, Mary Daily 16, Bishop Muncy 16, Robert Adkins 17, Elmer Brown 17, Donna McCormick 17, Grace Adkins 18, "
+Bearing conditions,0.0,0.0,0.0,0.0,
+Elastomeric pad placement,10.0,1.0,1.0,0.0,
+Anchor bolt nut placement,35.0,3.0,2.0,0.0,
+Water ponding,42.0,3.0,1.0,0.0,
+Bridge Owner:,0.0,0.0,0.0,0.0,
+Footing,0.0,0.0,0.0,0.0,
+Erosion around footing,40.0,3.0,1.0,6.0,"Cathy Hill 15, Danny Cook 16, Connie Roberts 16, David Vance 16, Ralph Manual 17, Grace Adkins 18, "
+Diff Settling end to end,44.0,1.0,2.0,3.0,"Alice Bradley 15, Cathy Hill 15, Mary Daily 16, "
+Stemwall,0.0,0.0,0.0,0.0,
+Vertical tilting,7.0,0.0,0.0,0.0,
+Exposed rebar,11.0,1.0,0.0,0.0,
+Cracks,12.0,0.0,0.0,0.0,
+Spalling,13.0,0.0,0.0,0.0,
+Efflorescense,11.0,2.0,0.0,0.0,
+Concrete abrasion,12.0,1.0,0.0,0.0,
+Deck Backwall,0.0,0.0,0.0,0.0,
+Concrete wear,34.0,4.0,0.0,1.0,"Betty Miller 17, "
+Cracks,38.0,1.0,0.0,0.0,
+Effectiveness,26.0,3.0,12.0,5.0,"Ruth Cornell 16, Mary Evelyn Hager 16, Shelba Kay Thomas 16, Robert Adkins 17, Grace Adkins 18, "
+Gravel Approach Ramps,1.0,0.0,0.0,0.0,
+Settling in traffic lane,35.0,8.0,7.0,0.0,
+Settling next to backwall,25.0,11.0,13.0,1.0,"Betty Miller 17, "
+Side Erosion,31.0,10.0,2.0,4.0,"Cathy Hill 15, Connie Roberts 16, David Vance 16, Betty Miller 17, "
+Gabions,0.0,0.0,0.0,0.0,
+As built,19.0,0.0,0.0,1.0,"Robert Adkins 17, "
+Missing stone,10.0,10.0,0.0,1.0,"Alice Bradley 15, "
+Settling/movement,15.0,1.0,1.0,4.0,"Alice Bradley 15, Cathy Hill 15, Robert Adkins 17, Terry Miller 17, "
+Rust,17.0,2.0,0.0,2.0,"Alice Bradley 15, Cathy Hill 15, "
+Concrete Blocks,0.0,0.0,0.0,0.0,
+Settling,3.0,1.0,0.0,0.0,
+Channel protection,0.0,0.0,0.0,0.0,
+Riprap As-built ,42.0,1.0,0.0,3.0,"Shelba Kay Thomas 16, Ralph Manual 17, Grace Adkins 18, "
+Erosion of riprap,21.0,6.0,8.0,8.0,"Michaiel Angel 16, Dollie Davis 16, Holbert Dial 16, Misty Murr 16, Connie Roberts 16, David Vance 16, Ralph Manual 17, Ronald Russell 20, "
+Erosion next to riprap,40.0,1.0,1.0,3.0,"Misty Murr 16, David Vance 16, Ralph Manual 17, "
+# per category,0.0,4.0,5.0,3.0,"Brandon Lovejoy 15, Bill Cart 16, Ralph Manual 17, "
+Overall score (lower the better),0.0,0.0,0.0,0.0,
