@@ -1,0 +1,71 @@
+,good,fair,poor,severe,
+Signage,0.0,0.0,0.0,0.0,
+Guide post,1.0,1.0,0.0,4.0,"Alice Bradley 15, Cathy Hill 15, Mary Daily 16, Donna McCormick 17, "
+"Speed limit, wt limit sign",3.0,0.0,0.0,3.0,"Cathy Hill 15, Mary Daily 16, Grace Adkins 18, "
+reflectors,4.0,0.0,0.0,2.0,"Cathy Hill 15, Mary Daily 16, "
+Curb,0.0,0.0,0.0,0.0,
+Damage,5.0,2.0,0.0,0.0,
+Curb wood decay,5.0,1.0,0.0,0.0,
+Curb connection,6.0,1.0,0.0,0.0,
+Railing /guardrail,0.0,0.0,0.0,0.0,
+Decking: ,0.0,0.0,0.0,0.0,
+Wood Damage,3.0,1.0,0.0,0.0,
+Cleanness of deck,2.0,4.0,0.0,1.0,"Shelby Kay Thomas 16, "
+Wood internal decay,2.0,1.0,0.0,0.0,
+Fungus ,3.0,0.0,0.0,0.0,
+Wood wear surface,4.0,0.0,0.0,0.0,
+Deck clips spacing,2.0,0.0,0.0,0.0,
+Roll roofing : as-built,0.0,0.0,2.0,0.0,
+Steel Superstruture,0.0,0.0,0.0,0.0,
+Beams,5.0,2.0,0.0,0.0,
+Lateral bracing,4.0,2.0,0.0,0.0,
+Diagonal bracing,2.0,0.0,0.0,0.0,
+Beam bearing plate,0.0,0.0,0.0,0.0,
+Bolted connections,0.0,0.0,0.0,0.0,
+As-built,3.0,0.0,0.0,0.0,
+Field Welded connections,0.0,0.0,0.0,0.0,
+As-built quality,1.0,1.0,3.0,0.0,
+Beam Corrosion,0.0,0.0,0.0,0.0,
+web,0.0,2.0,1.0,4.0,"Alice Bradley 15, Mary Daily 16, Donna McCormick 17, Grace Adkins 18, "
+bot flange,0.0,1.0,1.0,4.0,"Alice Bradley 15, Mary Daily 16, Donna McCormick 17, Grace Adkins 18, "
+bracing,0.0,1.0,1.0,3.0,"Alice Bradley 15, Donna McCormick 17, Grace Adkins 18, "
+top flange,0.0,1.0,1.0,4.0,"Alice Bradley 15, Mary Daily 16, Shelby Kay Thomas 16, Grace Adkins 18, "
+at field welds,0.0,3.0,1.0,2.0,"Alice Bradley 15, Grace Adkins 18, "
+at bearing supports,0.0,1.0,2.0,3.0,"Shelby Kay Thomas 16, Donna McCormick 17, Grace Adkins 18, "
+Paint effectiveness,0.0,1.0,1.0,5.0,"Alice Bradley 15, Cathy Hill 15, Mary Daily 16, Donna McCormick 17, Grace Adkins 18, "
+Bearing conditions,0.0,0.0,0.0,0.0,
+Elastomeric pad placement,0.0,0.0,0.0,0.0,
+Anchor bolt nut placement,1.0,0.0,0.0,0.0,
+Water ponding,5.0,0.0,0.0,0.0,
+Bridge Owner:,0.0,0.0,0.0,0.0,
+Footing,0.0,0.0,0.0,0.0,
+Erosion around footing,4.0,0.0,0.0,3.0,"Cathy Hill 15, Ralph Manual 17, Grace Adkins 18, "
+Diff Settling end to end,2.0,1.0,1.0,3.0,"Alice Bradley 15, Cathy Hill 15, Mary Daily 16, "
+Stemwall,0.0,0.0,0.0,0.0,
+Vertical tilting,0.0,0.0,0.0,0.0,
+Exposed rebar,0.0,0.0,0.0,0.0,
+Cracks,0.0,0.0,0.0,0.0,
+Spalling,0.0,0.0,0.0,0.0,
+Efflorescense,0.0,0.0,0.0,0.0,
+Concrete abrasion,0.0,0.0,0.0,0.0,
+Deck Backwall,0.0,0.0,0.0,0.0,
+Concrete wear,2.0,1.0,0.0,0.0,
+Cracks,3.0,0.0,0.0,0.0,
+Effectiveness,2.0,0.0,3.0,2.0,"Shelby Kay Thomas 16, Grace Adkins 18, "
+Gravel Approach Ramps,0.0,0.0,0.0,0.0,
+Settling in traffic lane,7.0,0.0,0.0,0.0,
+Settling next to backwall,5.0,1.0,1.0,0.0,
+Side Erosion,2.0,4.0,0.0,1.0,"Cathy Hill 15, "
+Gabions,0.0,0.0,0.0,0.0,
+As built,1.0,0.0,0.0,0.0,
+Missing stone,0.0,1.0,0.0,1.0,"Alice Bradley 15, "
+Settling/movement,0.0,0.0,0.0,2.0,"Alice Bradley 15, Cathy Hill 15, "
+Rust,0.0,0.0,0.0,2.0,"Alice Bradley 15, Cathy Hill 15, "
+Concrete Blocks,0.0,0.0,0.0,0.0,
+Settling,0.0,0.0,0.0,0.0,
+Channel protection,0.0,0.0,0.0,0.0,
+Riprap As-built ,3.0,0.0,0.0,3.0,"Shelby Kay Thomas 16, Ralph Manual 17, Grace Adkins 18, "
+Erosion of riprap,1.0,0.0,1.0,1.0,"Ralph Manual 17, "
+Erosion next to riprap,4.0,0.0,0.0,1.0,"Ralph Manual 17, "
+# per category,0.0,1.0,1.0,1.0,"Ralph Manual 17, "
+Overall score (lower the better),0.0,0.0,0.0,0.0,
