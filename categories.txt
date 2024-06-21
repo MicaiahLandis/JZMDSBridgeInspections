@@ -1,0 +1,97 @@
+0. Signage:
+1. Guide post
+2. Speed limit, wt limit sign
+3. reflectors
+4. nan
+5. Curb:
+6. Damage
+7. Curb wood decay
+8. Curb connection
+9. Railing /guardrail
+10. nan
+11. Decking: 
+12. Wood Damage
+13. Cleanness of deck
+14. Wood internal decay
+15. Fungus 
+16. Wood wear surface
+17. Deck clips spacing
+18. Roll roofing / as-built
+19. nan
+20. Steel Superstruture:
+21. Beams
+22. Lateral bracing
+23. Diagonal bracing
+24. Beam bearing plate
+25. nan
+26. Bolted connections:
+27. As-built
+28. nan
+29. Field Welded connections:
+30. As-built quality
+31. nan
+32. Beam Corrosion:
+33. web
+34. bot flange
+35. bracing
+36. top flange
+37. at field welds
+38. at bearing supports
+39. Paint Effectiveness:
+40. Paint effectiveness
+41. nan
+42. Bearing conditions:
+43. Elastomeric pad placement
+44. Anchor bolt nut placement
+45. Water ponding
+46. nan
+47. nan
+48. nan
+49. nan
+50. nan
+51. nan
+52. nan
+53. nan
+54. nan
+55. nan
+56. nan
+57. nan
+58. Footing:
+59. Erosion around footing
+60. Diff Settling end to end
+61. nan
+62. Stemwall:
+63. Vertical tilting
+64. Exposed rebar
+65. Cracks
+66. Spalling
+67. Efflorescense
+68. Concrete abrasion
+69. nan
+70. Deck Backwall:
+71. Concrete wear
+72. Cracks
+73. Effectiveness
+74. nan
+75. Gravel Approach Ramps:
+76. Settling in traffic lane
+77. Settling next to backwall
+78. Side Erosion
+79. nan
+80. Gabions:
+81. As built
+82. Missing stone
+83. Settling/movement
+84. Rust
+85. nan
+86. Concrete Blocks:
+87. Settling
+88. nan
+89. Channel protection:
+90. Riprap As-built 
+91. Erosion of riprap
+92. Erosion next to riprap
+93. nan
+94. nan
+95. # per category
+96. Overall score (lower the better)

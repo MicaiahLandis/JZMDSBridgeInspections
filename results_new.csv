@@ -1,71 +1,71 @@
 ,good,fair,poor,severe,
-Signage,0.0,0.0,0.0,0.0,
-Guide post,18.0,2.0,0.0,22.0,"Shirley Browning 15, Bradley Hager 15, Brandon Lovejoy 15, Chuck Adkins 16, Jim and Tasha Alder 16, Michaiel Angel 16, Bill Cart 16, Danny Cook 16, Ruth Cornell 16, Doss Dana 16, Dollie Davis 16, Mary Evelyn Hager 16, Misty Murr 16, Roger + Lavonna Napier 16, Eskel Taylor 16, David Vance 16, Arther Adkins 17, Arnold Hensley 17, Richard Jeffery 17, Terry Miller 17, Jessica Stone 17, Robert Allen 18, "
-"Speed limit, wt limit sign",22.0,0.0,0.0,20.0,"Shirley Browning 15, Bradley Hager 15, Brandon Lovejoy 15, Chuck Adkins 16, Jim and Tasha Alder 16, Michaiel Angel 16, Bill Cart 16, Danny Cook 16, Ruth Cornell 16, Dollie Davis 16, Mary Evelyn Hager 16, Bishop Muncy 16, Misty Murr 16, Roger + Lavonna Napier 16, Eskel Taylor 16, David Vance 16, Arnold Hensley 17, Jessica Stone 17, Robert Allen 18, Lola Crews 20, "
-reflectors,29.0,0.0,0.0,12.0,"Bradley Hager 15, Brandon Lovejoy 15, Michaiel Angel 16, Ruth Cornell 16, Doss Dana 16, Holbert Dial 16, Mary Evelyn Hager 16, Roger + Lavonna Napier 16, David Vance 16, Arnold Hensley 17, Terry Miller 17, Ronald Russell 20, "
-Curb,0.0,0.0,0.0,0.0,
-Damage,39.0,1.0,1.0,1.0,"Michaiel Angel 16, "
-Curb wood decay,36.0,6.0,0.0,0.0,
-Curb connection,40.0,0.0,0.0,1.0,"David Vance 16, "
-Railing /guardrail,2.0,0.0,0.0,0.0,
-Decking: ,0.0,0.0,0.0,0.0,
-Wood Damage,39.0,2.0,2.0,0.0,
-Cleanness of deck,19.0,12.0,6.0,6.0,"Bradley Hager 15, Brandon Lovejoy 15, Bill Cart 16, Bishop Muncy 16, Robert Allen 18, David McCall 19, "
-Wood internal decay,35.0,4.0,0.0,3.0,"Ruth Cornell 16, Mary Evelyn Hager 16, Robert Adkins 17, "
-Fungus ,12.0,21.0,7.0,2.0,"Robert Adkins 17, Roy Sears 19, "
-Wood wear surface,41.0,1.0,0.0,0.0,
-Deck clips spacing,37.0,3.0,0.0,1.0,"Robert Adkins 17, "
-Roll roofing : as-built,7.0,5.0,24.0,5.0,"Bill Cart 16, Misty Murr 16, Robert Adkins 17, Elmer Brown 17, Lola Crews 20, "
-Steel Superstruture,0.0,0.0,0.0,0.0,
-Beams,42.0,0.0,0.0,0.0,
-Lateral bracing,42.0,0.0,0.0,0.0,
-Diagonal bracing,37.0,0.0,0.0,0.0,
-Beam bearing plate,7.0,0.0,0.0,0.0,
-Bolted connections,0.0,0.0,0.0,0.0,
-As-built,21.0,20.0,0.0,0.0,
-Field Welded connections,0.0,0.0,0.0,0.0,
-As-built quality,17.0,7.0,2.0,0.0,
-Beam Corrosion,0.0,0.0,0.0,0.0,
-web,10.0,20.0,11.0,1.0,"Robert Adkins 17, "
-bot flange,1.0,23.0,16.0,2.0,"Bishop Muncy 16, Robert Adkins 17, "
-bracing,1.0,23.0,14.0,4.0,"Bradley Hager 15, Bishop Muncy 16, David Vance 16, Robert Adkins 17, "
-top flange,1.0,19.0,20.0,2.0,"Bishop Muncy 16, Robert Adkins 17, "
-at field welds,1.0,14.0,22.0,1.0,"Bradley Hager 15, "
-at bearing supports,6.0,18.0,14.0,2.0,"Bishop Muncy 16, Jimmy + Darlene Workman 17, "
-Paint effectiveness,6.0,15.0,18.0,3.0,"Bishop Muncy 16, Robert Adkins 17, Elmer Brown 17, "
-Bearing conditions,0.0,0.0,0.0,0.0,
-Elastomeric pad placement,10.0,1.0,1.0,0.0,
-Anchor bolt nut placement,34.0,3.0,2.0,0.0,
-Water ponding,37.0,3.0,1.0,0.0,
-Bridge Owner:,0.0,0.0,0.0,0.0,
-Footing,0.0,0.0,0.0,0.0,
-Erosion around footing,36.0,3.0,1.0,3.0,"Danny Cook 16, Connie Roberts 16, David Vance 16, "
-Diff Settling end to end,42.0,0.0,1.0,0.0,
-Stemwall,0.0,0.0,0.0,0.0,
-Vertical tilting,7.0,0.0,0.0,0.0,
-Exposed rebar,11.0,1.0,0.0,0.0,
-Cracks,12.0,0.0,0.0,0.0,
-Spalling,13.0,0.0,0.0,0.0,
-Efflorescense,11.0,2.0,0.0,0.0,
-Concrete abrasion,12.0,1.0,0.0,0.0,
-Deck Backwall,0.0,0.0,0.0,0.0,
-Concrete wear,32.0,3.0,0.0,1.0,"Betty Miller 17, "
-Cracks,35.0,1.0,0.0,0.0,
-Effectiveness,24.0,3.0,9.0,3.0,"Ruth Cornell 16, Mary Evelyn Hager 16, Robert Adkins 17, "
-Gravel Approach Ramps,1.0,0.0,0.0,0.0,
-Settling in traffic lane,28.0,8.0,7.0,0.0,
-Settling next to backwall,20.0,10.0,12.0,1.0,"Betty Miller 17, "
-Side Erosion,29.0,6.0,2.0,3.0,"Connie Roberts 16, David Vance 16, Betty Miller 17, "
-Gabions,0.0,0.0,0.0,0.0,
-As built,18.0,0.0,0.0,1.0,"Robert Adkins 17, "
-Missing stone,10.0,9.0,0.0,0.0,
-Settling/movement,15.0,1.0,1.0,2.0,"Robert Adkins 17, Terry Miller 17, "
-Rust,17.0,2.0,0.0,0.0,
-Concrete Blocks,0.0,0.0,0.0,0.0,
-Settling,3.0,1.0,0.0,0.0,
-Channel protection,0.0,0.0,0.0,0.0,
-Riprap As-built ,39.0,1.0,0.0,0.0,
-Erosion of riprap,20.0,6.0,7.0,7.0,"Michaiel Angel 16, Dollie Davis 16, Holbert Dial 16, Misty Murr 16, Connie Roberts 16, David Vance 16, Ronald Russell 20, "
-Erosion next to riprap,36.0,1.0,1.0,2.0,"Misty Murr 16, David Vance 16, "
-# per category,0.0,3.0,4.0,2.0,"Brandon Lovejoy 15, Bill Cart 16, "
-Overall score (lower the better),0.0,0.0,0.0,0.0,
+Signage:,0,0,0,0,
+Guide post,18,1,0,22,Shirley Browning 15- Bradley Hager 15- Brandon Lovejoy 15- Chuck Adkins 16- Jim and Tasha Alder 16- Michaiel Angel 16- Bill Cart 16- Danny Cook 16- Ruth Cornell 16- Doss Dana 16- Dollie Davis 16- Mary Evelyn Hager 16- Misty Murr 16- Roger + Lavonna Napier 16- Eskel Taylor 16- David Vance 16- Arther Adkins 17- Arnold Hensley 17- Richard Jeffery 17- Terry Miller 17- Jessica Stone 17- Robert Allen 18- 
+"Speed limit, wt limit sign",21,0,0,20,Shirley Browning 15- Bradley Hager 15- Brandon Lovejoy 15- Chuck Adkins 16- Jim and Tasha Alder 16- Michaiel Angel 16- Bill Cart 16- Danny Cook 16- Ruth Cornell 16- Dollie Davis 16- Mary Evelyn Hager 16- Bishop Muncy 16- Misty Murr 16- Roger + Lavonna Napier 16- Eskel Taylor 16- David Vance 16- Arnold Hensley 17- Jessica Stone 17- Robert Allen 18- Lola Crews 20- 
+reflectors,28,0,0,12,Bradley Hager 15- Brandon Lovejoy 15- Michaiel Angel 16- Ruth Cornell 16- Doss Dana 16- Holbert Dial 16- Mary Evelyn Hager 16- Roger + Lavonna Napier 16- David Vance 16- Arnold Hensley 17- Terry Miller 17- Ronald Russell 20- 
+Curb:,0,0,0,0,
+Damage,38,1,1,1,Michaiel Angel 16- 
+Curb wood decay,36,5,0,0,
+Curb connection,39,0,0,1,David Vance 16- 
+Railing /guardrail,2,0,0,0,
+Decking: ,0,0,0,0,
+Wood Damage,39,2,1,0,
+Cleanness of deck,18,12,6,6,Bradley Hager 15- Brandon Lovejoy 15- Bill Cart 16- Bishop Muncy 16- Robert Allen 18- David McCall 19- 
+Wood internal decay,35,4,0,2,Ruth Cornell 16- Mary Evelyn Hager 16- 
+Fungus ,12,21,7,1,Roy Sears 19- 
+Wood wear surface,40,1,0,0,
+Deck clips spacing,37,3,0,0,
+Roll roofing / as-built,7,5,24,4,Bill Cart 16- Misty Murr 16- Elmer Brown 17- Lola Crews 20- 
+Steel Superstruture:,0,0,0,0,
+Beams,41,0,0,0,
+Lateral bracing,41,0,0,0,
+Diagonal bracing,36,0,0,0,
+Beam bearing plate,6,0,0,0,
+Bolted connections:,0,0,0,0,
+As-built,20,20,0,0,
+Field Welded connections:,0,0,0,0,
+As-built quality,17,6,2,0,
+Beam Corrosion:,0,0,0,0,
+web,10,20,11,0,
+bot flange,1,23,16,1,Bishop Muncy 16- 
+bracing,1,23,14,3,Bradley Hager 15- Bishop Muncy 16- David Vance 16- 
+top flange,1,19,20,1,Bishop Muncy 16- 
+at field welds,1,14,21,1,Bradley Hager 15- 
+at bearing supports,6,18,13,2,Bishop Muncy 16- Jimmy + Darlene Workman 17- 
+Paint Effectiveness:,0,0,0,0,
+Paint effectiveness,6,15,18,2,Bishop Muncy 16- Elmer Brown 17- 
+Bearing conditions:,0,0,0,0,
+Elastomeric pad placement,10,1,1,0,
+Anchor bolt nut placement,34,3,2,0,
+Water ponding,36,3,1,0,
+Footing:,0,0,0,0,
+Erosion around footing,36,3,0,3,Danny Cook 16- Connie Roberts 16- David Vance 16- 
+Diff Settling end to end,41,0,0,0,
+Stemwall:,0,0,0,0,
+Vertical tilting,7,0,0,0,
+Exposed rebar,11,1,0,0,
+Cracks,12,0,0,0,
+Spalling,13,0,0,0,
+Efflorescense,11,2,0,0,
+Concrete abrasion,12,1,0,0,
+Deck Backwall:,0,0,0,0,
+Concrete wear,31,3,0,1,Betty Miller 17- 
+Cracks,34,1,0,0,
+Effectiveness,24,3,9,2,Ruth Cornell 16- Mary Evelyn Hager 16- 
+Gravel Approach Ramps:,1,0,0,0,
+Settling in traffic lane,27,8,7,0,
+Settling next to backwall,20,10,11,1,Betty Miller 17- 
+Side Erosion,28,6,2,3,Connie Roberts 16- David Vance 16- Betty Miller 17- 
+Gabions:,0,0,0,0,
+As built,18,0,0,0,
+Missing stone,10,8,0,0,
+Settling/movement,15,1,1,1,Terry Miller 17- 
+Rust,16,2,0,0,
+Concrete Blocks:,0,0,0,0,
+Settling,3,1,0,0,
+Channel protection:,0,0,0,0,
+Riprap As-built ,38,1,0,0,
+Erosion of riprap,19,6,7,7,Michaiel Angel 16- Dollie Davis 16- Holbert Dial 16- Misty Murr 16- Connie Roberts 16- David Vance 16- Ronald Russell 20- 
+Erosion next to riprap,35,1,1,2,Misty Murr 16- David Vance 16- 
+# per category,0,3,4,2,Brandon Lovejoy 15- Bill Cart 16- 
+Overall score (lower the better),0,0,0,0,
